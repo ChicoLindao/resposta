@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+p {
+    font-size: 250px;
+    align-items: center;
+}
+
+.eisso {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: flex;
+}
